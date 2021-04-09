@@ -1,7 +1,7 @@
 ### Hi there, I'm Dmitry Zadorozhnyi 👋 ![](https://komarev.com/ghpvc/?username=DmitryZ-outten&color=green&&style=flat)
 
 ## 🔭 I’m currently working on
-<p align="left"> <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" alt="ansible" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/792337?s=200&v=4" alt="openshift" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_bamboo_logo_icon_168564.png" alt="bamboo" width="40" height="40"/>
+<p align="left"> <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/792337?s=200&v=4" alt="openshift" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_bamboo_logo_icon_168564.png" alt="bamboo" width="40" height="40"/> <img src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" alt="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 </p>
 
 ## 🌱 I’m currently learning
