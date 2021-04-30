@@ -1,4 +1,5 @@
-### Hi there, I'm Dmitry Zadorozhnyi 👋 ![](https://komarev.com/ghpvc/?username=DmitryZ-outten&color=green&&style=flat)
+### Hi there, I'm Dmitry Zadorozhnyi 👋 
+![](https://komarev.com/ghpvc/?username=DmitryZ-outten&color=green&&style=flat)
 
 ## 🔭 I’m currently working on
 <p align="left"> <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/792337?s=200&v=4" alt="openshift" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_bamboo_logo_icon_168564.png" alt="bamboo" width="40" height="40"/> <img src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" alt="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
@@ -12,3 +13,5 @@
 <a href="https://www.linkedin.com/in/dmitry-zadorozhnyi" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="dmitry-zadorozhnyi" /></a>
 <a href="https://dmyz.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@dmyz" /></a>
 
+## 💬 My speeches
+https://www.youtube.com/watch?v=wjy33DLaoyI
