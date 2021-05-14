@@ -13,5 +13,6 @@
 <a href="https://www.linkedin.com/in/dmitry-zadorozhnyi" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="dmitry-zadorozhnyi" /></a>
 <a href="https://dmyz.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@dmyz" /></a>
 
-## 💬 My speeches
+## 💬 My speeches/courses
 https://www.youtube.com/watch?v=wjy33DLaoyI
+https://www.udemy.com/course/portaswitch-course/
